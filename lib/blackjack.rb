@@ -15,11 +15,11 @@ def prompt_user
 end
 
 def get_user_input
-  method = gets.chomp
+  gets.chomp
 end
 
 def end_game(n)
-  if n>27
+  if n>21
     puts "Sorry, you hit 27. Thanks for playing!"
   end
 end
