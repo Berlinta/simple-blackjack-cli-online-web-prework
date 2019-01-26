@@ -25,7 +25,7 @@ def end_game(n)
 end
 
 def initial_round
-  2.times do
+  sum = deal_card*2
     puts 
 end
 
