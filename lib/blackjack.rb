@@ -18,8 +18,9 @@ def get_user_input
   gets.chomp
 end
 
-def end_game
-  if 
+def end_game(n)
+  if n>27
+    puts "Sorry, you hit 27. Thanks for playing!"
 end
 
 def initial_round
