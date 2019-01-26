@@ -25,7 +25,8 @@ def end_game(n)
 end
 
 def initial_round
-  # code #initial_round here
+  2.times do
+    puts 
 end
 
 def hit?
