@@ -21,6 +21,7 @@ end
 def end_game(n)
   if n>27
     puts "Sorry, you hit 27. Thanks for playing!"
+  end
 end
 
 def initial_round
