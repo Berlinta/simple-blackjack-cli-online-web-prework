@@ -7,7 +7,7 @@ def deal_card
 end
 
 def display_card_total
-  puts "Your cards add up to 8"
+  puts "Your cards add up to #{n}"
 end
 
 def prompt_user
