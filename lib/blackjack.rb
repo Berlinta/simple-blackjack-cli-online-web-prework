@@ -51,6 +51,7 @@ end
 def runner
   Welcome
   hand=initial_round
-  until hand>21 
+  until hand>21 do
+    puts end_game
 end
     
