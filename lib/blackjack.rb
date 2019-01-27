@@ -49,6 +49,7 @@ end
 #####################################################
 
 def runner
-  # code runner here
+  Welcome
+  deal_card
 end
     
