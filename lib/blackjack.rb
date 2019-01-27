@@ -33,7 +33,8 @@ def initial_round
 def hit?(curent_total)
   prompt_user
   gets.chomp
-  deal_card if 
+  if input == 'h'
+    
 end
 
 def invalid_command
