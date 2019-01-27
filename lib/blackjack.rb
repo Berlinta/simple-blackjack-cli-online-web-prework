@@ -50,6 +50,7 @@ end
 
 def runner
   Welcome
-  deal_card
+  hand=initial_round
+  until
 end
     
