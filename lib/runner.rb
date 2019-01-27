@@ -1,5 +1,5 @@
 require_relative "blackjack.rb"
-def 
+def runner
 welcome
   hand=initial_round
   until hand>21 do
