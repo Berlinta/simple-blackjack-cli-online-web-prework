@@ -31,7 +31,8 @@ def initial_round
   end
     
 def hit?(curent_total)
-  puts "Type 'h' to hit or 's' to stay"gets.chomp
+  prompt_user
+  gets.chomp
 end
 
 def invalid_command
