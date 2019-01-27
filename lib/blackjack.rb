@@ -32,7 +32,7 @@ def initial_round
     
 def hit?(curent_total)
   prompt_user
-  gets.chomp
+  input=get_user_input
   if input == 'h'
     
 end
