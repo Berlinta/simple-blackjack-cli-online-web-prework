@@ -29,7 +29,7 @@ def initial_round
     display_card_total(sum)
     return sum
   end
-    end
+    
 
 def hit?
   # code hit? here
