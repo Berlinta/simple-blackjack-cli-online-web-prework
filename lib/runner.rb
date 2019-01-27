@@ -8,5 +8,3 @@ welcome
   end
   end_game(hand)
 end
-end
-runner
