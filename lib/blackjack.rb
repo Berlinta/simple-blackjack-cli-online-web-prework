@@ -11,7 +11,7 @@ def display_card_total(n)
 end
 
 def prompt_user
-  puts "Typeh' to hit or 's' to stay" '
+  puts "Type 'h' to hit or 's' to stay"
 end
 
 def get_user_input
@@ -31,7 +31,7 @@ def initial_round
   end
     
 def hit?(curent_total)
-  # code hit? here
+  puts "Type 'h' to hit or 's' to stay"gets.chomp
 end
 
 def invalid_command
